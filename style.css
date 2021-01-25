@@ -1,0 +1,9 @@
+.warning {
+    font-weight: bold;
+    color: rgb(255, 45, 45);
+    font-style: italic;
+}
+.comfirm {
+    font-weight: bold;
+    color: rgb(0, 132, 255);
+}
